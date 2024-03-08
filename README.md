@@ -31,7 +31,7 @@ About Us
 We are Quantum Cybertronic, a software company dedicated to providing innovative solutions to simplify your development and deployment processes.
 Available Images
 
-    Image Name 1: Description of the first image.
+    ede98f13c60cf912f8de6e347b4788f76a98576b: Base OS image with Centos:latest.
     Image Name 2: Description of the second image.
     Image Name 3: Description of the third image.
 
