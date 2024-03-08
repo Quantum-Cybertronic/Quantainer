@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: quantumcybertronics/quantumhub:${{ github.sha }}
+          tags: quantumcybertronics/quantumhub:Quantos
